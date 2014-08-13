@@ -1,7 +1,14 @@
 # Taskrunner Dukeout: Gulp vs Grunt
-=============
-
+--------
 Testing speed and usability between gulp and grunt
+--------
+
+## Setup to run this yourself
+
+```
+npm install
+```
+--------
 
 This repository was set up to build duelling scripts - one in [Grunt](http://gruntjs.com) and the other in [Gulp](http://gulpjs.com) - and run them against each other to see which is faster and which is easier to set up.
 
